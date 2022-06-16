@@ -1,2 +1,4 @@
 # monty
 monty is an interpreter of Monty ByteCodes files, which is a scripting language just like Python.
+
+monty contains specific instructions to manipulate data information (stacks or queues), where each instruction (called opcode) is sended per line. Files which contains Monty byte codes usually have the .m extension.
